@@ -1,0 +1,15 @@
+img {
+    width: 300px; 
+    display: block;
+}
+#speciaal {
+    background: yellow;
+}
+body {
+    margin: 0;
+    background-image: url(https://c.tenor.com/fv-nkS0ahugAAAAC/nyancat-donuts.gif);
+}
+h1 {
+    color: rgb(6, 163, 27);
+}
+.speciaal{background-color: green;}
