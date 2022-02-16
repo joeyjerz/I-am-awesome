@@ -1,2 +1,3 @@
-![IMG_5030](https://user-images.githubusercontent.com/77731167/154334813-ce9ce62b-fa44-4d63-9715-b073225e6247.jpeg)
-[bekjik deze geweldige pagina van Zuyd](https://www.zuyd.nl)
+![IMG_4108](https://user-images.githubusercontent.com/77731167/154335210-7a10ce80-54db-448e-8073-3119b60d45b1.JPG)
+
+bekijk deze geweldige pagina van [Zuyd](https://www.zuyd.nl)
