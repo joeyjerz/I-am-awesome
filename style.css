@@ -1,0 +1,15 @@
+img {
+    width: 300px; 
+    display: block;
+}
+#speciaal {
+    background: yellow;
+}
+body {
+    margin: 0;
+    background-image: url(https://mundus-kosmos.s3.eu-central-1.amazonaws.com/images/sites/20/2021/12/14194803/avengers-wallpaper-hd-wallpaper-wallpaper-hd-1278876202.jpeg);
+}
+h1 {
+    color: rgb(6, 163, 27);
+}
+.speciaal{background-color: green;}
